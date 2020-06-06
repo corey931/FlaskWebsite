@@ -1,4 +1,11 @@
 # FlaskWebsite
 
-## Update
-Hello World! What's up? 
+## What it needs
+
+**Pages**
+- [] landing page
+- [] about me
+- [] blog
+
+**Functions**
+- [] filter blog entries
